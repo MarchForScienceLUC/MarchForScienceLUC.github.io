@@ -314,8 +314,8 @@ section {
   border-color: #ff00ff;
 }
 .boss-form input[type="submit"]:hover {
-  border-color: #ff00ff;
-  background: #ff00ff;
+  border-color: #00C9C4;
+  background: #00C9C4;
   color: #fff;
 }
 
