@@ -1,23 +1,23 @@
 .boss-scroll-down a:hover,
 .boss-scroll-down a:focus {
-  background: #F25F46;
-  border-color: #F25F46;
+  background: #32BDBC;
+  border-color: #32BDBC;
 }
 
 .boss-cta-area .boss-button a:hover,
 .boss-cta-area .boss-button a:focus {
-  color: #F25F46;
-  border-color: #F25F46;
+  color: #32BDBC;
+  border-color: #32BDBC;
 }
 
 .boss-subscribe-area .boss-form input:focus {
-  border-color: #F25F46;
+  border-color: #32BDBC;
 }
 
 .boss-subscribe-area .boss-form input[type="submit"]:hover,
 .boss-subscribe-area .boss-form input[type="submit"]:focus {
-  border-color: #F25F46;
-  background: #F25F46;
+  border-color: #32BDBC;
+  background: #32BDBC;
 }
 
 .boss-footer-area p a:hover,
@@ -25,8 +25,8 @@
 .boss-section-heading h2,
 .boss-home-area .boss-header h1,
  {
-  color: #ffffff;
+  color: #32BDBC;
 }
 .boss-single-service:hover .boss-icon span{
-    color: #F25F46;
+    color: #32BDBC;
 }
