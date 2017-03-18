@@ -65,8 +65,8 @@
 
      // nicescroll active here
      $("html").niceScroll({
-        cursorcolor: '#fff',// it's use for dark version
-        cursorborder: '1px solid #fff', // it's use for dark verstion
+        cursorcolor: '#8CCFEC',// it's use for dark version
+        cursorborder: '1px solid #8CCFEC', // it's use for dark verstion
         //cursorcolor: '#323232',// it's use for light version
         //cursorborder: '1px solid #323232', // it's use for light verstion
         mousescrollstep: 50,

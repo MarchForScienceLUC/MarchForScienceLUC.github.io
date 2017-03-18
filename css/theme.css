@@ -88,9 +88,9 @@ section {
 }
 
 .boss-header-border {
-  background: url(../images/header-border.png) no-repeat;
+  border-bottom: 3px solid #ED1F24;
   height: 13px;
-  width: 78px;
+  width: 430px;
   display: inline-block;
 }
 
@@ -143,10 +143,13 @@ section {
 
 .boss-countdown div {
   display: inline-block;
+    
+    
 }
 .boss-countdown div span {
   display: block;
   width: 240px;
+  
 }
 .boss-countdown div span:first-child {
   font-size: 50px;
@@ -157,6 +160,7 @@ section {
   font-size: 30px;
   line-height: 20px;
   border: 3px solid;
+  
   padding: 15px 10px;
   margin: 20px auto 0px;
   width: 170px;
@@ -201,7 +205,7 @@ section {
 
 /* ============= cta style ============= */
 #boss-cta {
-  background: url(http://i.imgur.com/pKjSgQ1.jpg) no-repeat center 70%;
+  background: url(https://s3-us-west-2.amazonaws.com/asset.plexuss.com/college/overview_images/1166_loyola-university-chicago_02.jpg) no-repeat center 70%;
   -webkit-background-size: cover;
   background-size: cover;
   padding: 50px 0;
