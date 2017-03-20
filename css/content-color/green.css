@@ -14,6 +14,10 @@
   border-color: #8CCFEC;
 }
 
+.boss-subscribe-area .boss-form textarea:focus {
+  border-color: #8CCFEC;
+}
+
 .boss-subscribe-area .boss-form input[type="submit"]:hover,
 .boss-subscribe-area .boss-form input[type="submit"]:focus {
   border-color: #8CCFEC;
